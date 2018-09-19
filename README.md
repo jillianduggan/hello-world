@@ -1,2 +1,3 @@
 # hello-world
 tis the hello-world repository for purposes of self education
+the bit about myself... 
